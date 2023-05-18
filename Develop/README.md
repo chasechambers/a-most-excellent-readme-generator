@@ -19,10 +19,13 @@ This project generates a readme.md file
 - [Questions](#questions)
 
 ## Installation
-By running it with nodejs
+By running it with node.js and adding in information as necessary.
+
+![example](/Develop/assets/images/nodejs%20example.png)
 
 
 ## Usage
+Run through a terminal with nodejs
 
 ## Credits
 Class lessons
@@ -34,6 +37,7 @@ This project is covered under the MIT License
 
 
 ## Features
+Quickly generates a readme to save time.
 
 ## How to Contribute
 Guidelines will be established later
