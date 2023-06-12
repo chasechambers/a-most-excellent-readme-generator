@@ -12,5 +12,6 @@
     "inquirer": "^8.2.4"
   },
   "keywords": [],
-  "description": ""
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "devDependencies": {}
 }

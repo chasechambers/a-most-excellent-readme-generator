@@ -1,11 +1,11 @@
-# Readme Generator!
+# Manage Those Employees!
  
  ## Badges
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This project generates a readme.md file
+This allows you to view departments, roles, employees, while also adding and updating information in the tables through an inquirer prompt.
 
 ## Table of Contents
 - [Description](#description)
@@ -19,16 +19,13 @@ This project generates a readme.md file
 - [Questions](#questions)
 
 ## Installation
-By running it with node.js and adding in information as necessary.
-
-![example](/Develop/assets/images/nodejs%20example.png)
+This project works with using node js and answering questions through an inquirer prompt.
 
 
 ## Usage
-Run through a terminal with nodejs
 
 ## Credits
-Class lessons
+Assistance through classwork, inquirer docs, office hours, and help from Rachel Robertson with SQL commands.
 
 ## License
 
@@ -37,13 +34,12 @@ This project is covered under the MIT License
 
 
 ## Features
-Quickly generates a readme to save time.
 
 ## How to Contribute
-Guidelines will be established later
+N/A
 
 ## Tests
-Changing the descriptions/information and chosing a license type
+Tests can be run by adding departments, roles, updating employees, adding employees, and using the view functions to make sure everything is input as it should be.
 
 ## Questions
 https://github.com/chasechambers
