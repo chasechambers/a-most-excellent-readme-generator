@@ -1,11 +1,11 @@
-# A most excellent readme generator
+# Read Me Generator
  
  ## Badges
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This project takes information and creates a mostly complete readme
+This project generates a readme based off of user inputs
 
 ## Table of Contents
 - [Description](#description)
@@ -19,18 +19,15 @@ This project takes information and creates a mostly complete readme
 - [Questions](#questions)
 
 ## Installation
-By using node js
+Install and run through nodejs
 
 
 ## Usage
+![example](./assets/images/example.png)
 
-https://drive.google.com/file/d/1QadFfCbOflCu7KjoQuY0qEJ45HpD0kgU/view
-https://github.com/chasechambers/a-most-excellent-readme-generator/tree/main
-
-![screenshot](./assets/images/nodejs%20example.png)
 
 ## Credits
-Classwork and research
+classwork
 
 ## License
 
@@ -41,10 +38,10 @@ This project is covered under the MIT License
 ## Features
 
 ## How to Contribute
-n/a
+N/A
 
 ## Tests
-By changing the information that can be input or selecting a different license
+Changing the inputs to prompts as needed
 
 ## Questions
 https://github.com/chasechambers

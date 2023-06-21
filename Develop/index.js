@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const generateReadme = ({ title, description, installation, contributionCredits, contributionGuidelines, tests, username, email}) =>
+const generateReadme = ({ title, description, installation, usage, contributionCredits, contributionGuidelines, tests, username, email}) =>
  `# ${title}
  
  ## Badges
@@ -28,6 +28,7 @@ ${installation}
 
 
 ## Usage
+${usage}
 
 ## Credits
 ${contributionCredits}
@@ -80,6 +81,11 @@ const questions = inquirer
         type: 'input',
         name: 'installation',
         message: 'How do you install/run the project?',
+      },
+      {
+        type: 'input',
+        name: 'usage',
+        message: 'How can you use this project?',
       },
       {
         type: 'input',
